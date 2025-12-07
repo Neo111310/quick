@@ -1,5 +1,10 @@
 # Aktuell
 
+## 2025 Dezember
+
+*2025-12-07*
+- Einfach ein Update
+
 ## 2025 November
 
 *2025-11-16*
