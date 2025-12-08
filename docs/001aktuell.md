@@ -2,6 +2,9 @@
 
 ## 2025 Dezember
 
+*2025-12-08*
+- Online Arbeitsspeicher mit Zero Knolege Speicher in der EU - https://internxt.com/de
+
 *2025-12-07*
 - Einfach ein Update
 
