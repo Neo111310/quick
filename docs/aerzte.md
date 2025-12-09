@@ -1,22 +1,22 @@
 # Ärzte Wr. Neudorf
 
 ## Dr. Alireza Nouri
-Hauptstraße 31/2, 2351 Wiener Neudorf
-arzt@dr-nouri.at
+Hauptstraße 31/2, 2351 Wiener Neudorf\
+arzt@dr-nouri.at \
 +43 2236 677776
 
 https://www.arzt-wienerneudorf.at/
 
-Mo: 09:00-13:00 & 13:30-15:30 Uhr (Nachmittag nach Terminvereinbarung)
-Di: 09:00-13:00 & 15:00-18:00 Uhr
-Mi: nur nach Terminvereinbarung
-Do: 09:00-13:00 Uhr
+Mo: 09:00-13:00 & 13:30-15:30 Uhr (Nachmittag nach Terminvereinbarung)\
+Di: 09:00-13:00 & 15:00-18:00 Uhr\
+Mi: nur nach Terminvereinbarung\
+Do: 09:00-13:00 Uhr\
 Fr: 10:00-15:00 Uhr
 
 ---
 
 ## Dr. Elisabeth Stadter
-Ordination Dr. Elisabeth Stadter
+Ordination Dr. Elisabeth Stadter\
 Hauptstr. 43, 2351 Wr. Neudorf\
 ordination.stadter@pm.me\
 02236 61111
