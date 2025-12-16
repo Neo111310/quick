@@ -13,3 +13,5 @@ Webseite:
 https://unsere-kur.com/  
 Youtube Kanal:  
 https://www.youtube.com/@UNSEREKURTV  
+
+# Link zur Webseite QR
