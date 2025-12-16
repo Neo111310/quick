@@ -15,4 +15,5 @@ Youtube Kanal:
 https://www.youtube.com/@UNSEREKURTV  
 
 # Link zur Webseite QR
-![QR-Code](https://github.com/Neo111310/quick/main/docs/img/My-Impuls-Link-Jay.png)  
+![QR-Code](https://github.com/Neo111310/quick/blob/main/docs/img/My-Impuls-Link-Jay.png)  
+
