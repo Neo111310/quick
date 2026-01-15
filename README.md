@@ -6,7 +6,6 @@ Dieses Repository ist dafür gedacht alles mögliche an Infos zu Sammeln und ber
 > Aktuelle Infos und Links\
 > Der Wichtigste Link ist Glaube ich [Aktuelles](/docs/001aktuell.md)
 
-- [TF Infos](/docs/twin.md)
 - [Security Themen](/docs/security.md)
 - [MY Impulse Infos](/docs/MY-Impuls-Info.md)  
 
