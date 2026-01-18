@@ -1,5 +1,14 @@
 # Aktuell
 
+## 2026 Jänner
+
+*2026-01-18*  
+- Dan Brown - *The Secret of Secrets*
+   The Secret of Secrets: Deutsche Ausgabe. Zwischen Leben und Tod – Das letzte Geheimnis der Menschheit. Thriller (Robert Langdon, Band 6)    
+   **ISBN**   
+   3785727704  
+   978-3785727706  
+  
 ## 2025 Dezember
 
 *2025-12-08*
