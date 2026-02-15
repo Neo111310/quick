@@ -9,6 +9,10 @@ sudo apt update
 sudo apt install kleopatra gnupg
 ```
 
+Free your mind to get a Year
+
+pgp & man sind immer gut 
+
 -----BEGIN PGP MESSAGE-----
 
 hF4DKfpjX5XDwJoSAQdAM8bNizb+J8HHpIT5tlcbhG0lUhv540i0rrBiIcC750ow
