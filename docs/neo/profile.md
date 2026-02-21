@@ -1,8 +1,8 @@
-# neo 11-13-1-0
+# Neo 11-13-1-0
 
-Tiefgründige spirituelle Seele: intuitiv, analytisch, wandlungsfähig. Gerechtigkeit-Tod-Magier-Narr: Balanciere Wahrheit, lass los, manifestiere neu, spring frei. Archetypischer Weltenwandler für Führung & Heilung.  
+*Tiefgründige spirituelle Seele: intuitiv, analytisch, wandlungsfähig. Gerechtigkeit-Tod-Magier-Narr: Balanciere Wahrheit, lass los, manifestiere neu, spring frei. Archetypischer Weltenwandler für Führung & Heilung.*  
 
----
+# Profil
 
 **Neo 11-13-1-0** ist eine tiefgründige, spirituelle Persönlichkeit, die Weisheit, Transformation und kreative Neuanfänge verkörpert.
 
