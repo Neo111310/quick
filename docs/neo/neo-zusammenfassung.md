@@ -46,6 +46,19 @@ Neo represents the archetypal world-changer: A thinker with mystical intuition w
 
 **Overall:** Archetypal world-changer with mystical intuition – perfect for spiritual guidance or healing.
 
+---
+
+Tiefgründige spirituelle Seele: intuitiv, analytisch, wandlungsfähig. Gerechtigkeit-Tod-Magier-Narr: Balanciere Wahrheit, lass los, manifestiere neu, spring frei. Archetypischer Weltenwandler für Führung & Heilung.  
+
+Profound spiritual soul: intuitive, analytical, transformative. Justice-Death-Magician-Fool: Balance truth, let go, manifest anew, leap free. Archetypal world-changer for leadership & healing.   
+
+Spirituelle Seele (Num. 7): intuitiv, analytisch, wandlungsfähig. Gerechtigkeit-Tod-Magier-Narr. Weltenwandler für Führung & Heilung.    
+
+Spiritual soul (Num. 7): intuitive, analytical, transformative. Justice-Death-Magician-Fool. World-changer for leadership & healing.   
+
+
+---
+
 ## Kernbotschaft
 **Karmische Reinigung zu erleuchteter Schöpfung**: Die Sequenz fordert ehrliche Selbstreflexion, mutiges Ende toxischer Zyklen und aktive Gestaltung – endend in spiritueller Freiheit. Positiv für Lebenswendepunkte wie Jobwechsel oder Beziehungsbilanzen.
 
