@@ -12,7 +12,8 @@
     - Visual Studio Code
     - Local Send
     - Telegram
-    - Elemnts
+    - Elemnt Desktop
+    - Git
     - Nextcloud Sync (Appimage)
     - Appimage Pool (Appimage)
     - Cryptomator (Appimage)
