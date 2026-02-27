@@ -42,11 +42,13 @@ echo "Installation abgeschlossen! Starte den Rechner neu, falls nötig."
 
 Für GDM (neuere Ubuntu-Versionen wie 22.04+)
 
-Bearbeiten Sie /etc/gdm3/custom.conf (oder /usr/share/lightdm/lightdm.conf.d/ falls vorhanden) mit sudo und aktivieren Sie unter [daemon] die Option DisableUserList=true. Beispiel:
+Bearbeiten Sie /etc/gdm3/greeter-dconf-defaults 
 
 ``` text
-[daemon]
+[org/gnome/login-screen]
 DisableUserList=true
+banner-message-enable=true
+banner-message-text='Welcome to the Matrix\nNeo Follow the white Rabbit'
 ```
 
 Führen Sie danach ```sudo systemctl restart gdm ``` aus. Dadurch erscheint nur noch ein manuelles Eingabefeld ohne Benutzer-Vorschläge.
