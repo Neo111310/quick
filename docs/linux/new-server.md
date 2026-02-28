@@ -203,3 +203,22 @@ Falls es klappt, sind die Schlüssel aktiv.
 - Stellen Sie sicher, dass in `/etc/ssh/sshd_config` auf dem Server `PubkeyAuthentication yes` steht, dann `systemctl restart ssh`.
 - Nur Schlüssel aus Ihrem GitHub-Profil werden geladen – Deploy-Keys oder private Repos nicht.
 - Bei mehreren Schlüsseln werden alle importiert; prüfen Sie `authorized_keys` mit `cat ~/.ssh/authorized_keys`.
+
+# Jays Commands
+
+## Meine SSH Keys Ausrollen
+
+**CURL**
+```
+mkdir -p ~/.ssh && cd ~/.ssh
+curl -s https://github.com/neo111310.keys >> authorized_keys
+chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
+```
+
+**WGET**
+```
+mkdir -p ~/.ssh
+wget -O ~/.ssh/authorized_keys https://github.com/neo111310.keys
+chmod 600 ~/.ssh/authorized_keys
+chmod 700 ~/.ssh
+```

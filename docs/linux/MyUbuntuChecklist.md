@@ -15,7 +15,7 @@
     - Elemnt Desktop
     - Git
     - Nextcloud Sync (Appimage)
-    - Appimage Pool (Appimage)
+    - Appimage Pool (Appimage) - Braucht Fuse
     - Cryptomator (Appimage)
 
 ### Das Script
