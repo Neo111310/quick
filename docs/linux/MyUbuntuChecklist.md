@@ -17,6 +17,8 @@
     - Nextcloud Sync (Appimage)
     - Appimage Pool (Appimage)
     - Cryptomator (Appimage)
+  - Optionele Software
+     - Python
 
 ### Das Script
 
