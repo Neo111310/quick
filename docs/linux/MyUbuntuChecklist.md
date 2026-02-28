@@ -95,24 +95,12 @@ export SSH_AUTH_SOCK=/home/<user>/.var/app/com.bitwarden.desktop/data/.bitwarden
 
 # Fuse für Appimage 
 
-FUSE (Filesystem in Userspace) lässt sich auf Ubuntu einfach über das Paketmanagement installieren. Es ermöglicht Benutzern, eigene Dateisysteme ohne Kernel-Änderungen zu mounten. [arisonglife.tistory](https://arisonglife.tistory.com/entry/Install-FUSEFilesystem-in-Userspace-on-Ubuntu)
+WIKI LINK https://github.com/AppImage/AppImageKit/wiki/FUSE
 
-## Installation
-Führe im Terminal diese Befehle aus:
-```bash
-sudo apt update
-sudo apt install fuse
+For example, on Ubuntu (>= 22.04):
 ```
-Das installiert das Basis-FUSE-Paket inklusive libfuse und fusermount. [arisonglife.tistory](https://arisonglife.tistory.com/entry/Install-FUSEFilesystem-in-Userspace-on-Ubuntu)
-
-## Benutzer zur Gruppe hinzufügen
-Damit du als Normalnutzer mounten kannst:
-```bash
-sudo usermod -aG fuse $USER
+sudo add-apt-repository universe
+sudo apt install libfuse2
 ```
-Danach **ausloggen und neu einloggen** (oder `newgrp fuse`). [arisonglife.tistory](https://arisonglife.tistory.com/entry/Install-FUSEFilesystem-in-Userspace-on-Ubuntu)
+Warning: While libfuse2 is OK, do not install the fuse package as of 22.04 or you may break your system. If the fuse package did break your system, you can recover as described [here](https://github.com/orgs/AppImage/discussions/1339).
 
-## Nach der Installation
-- Prüfe mit `fusermount -V`.
-- Für spezielle FUSE-Tools (z. B. sshfs): `sudo apt install sshfs`.
-- Konfiguriere optional `/etc/fuse.conf` (z. B. `user_allow_other` für andere User freigeben). [wiki.ubuntuusers](https://wiki.ubuntuusers.de/FUSE/)
