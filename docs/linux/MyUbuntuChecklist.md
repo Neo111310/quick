@@ -18,6 +18,7 @@
     - Nextcloud Sync (Appimage)
     - Appimage Pool (Appimage) - Braucht Fuse
     - Cryptomator (Appimage)
+    - Twingate
   - Optionele Software
      - Python
 
