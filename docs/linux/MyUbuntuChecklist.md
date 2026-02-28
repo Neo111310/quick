@@ -14,6 +14,7 @@
     - Telegram
     - Elemnt Desktop
     - Git
+    - GUFW & UFW
     - Nextcloud Sync (Appimage)
     - Appimage Pool (Appimage) - Braucht Fuse
     - Cryptomator (Appimage)
