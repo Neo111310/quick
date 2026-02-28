@@ -43,12 +43,15 @@ echo "Installation abgeschlossen! Starte den Rechner neu, falls nötig."
 
 ### Login ohne Vorschlag
 
-Für GDM (neuere Ubuntu-Versionen wie 22.04+)
+Für GDM (neuere Ubuntu-Versionen wie 22.04+)  
 
-Bearbeiten Sie /etc/gdm3/greeter-dconf-defaults 
+Bearbeiten Sie 
+```
+sudo nano /etc/gdm3/greeter.dconf-defaults 
+```
+**[org/gnome/login-screen]**
 
 ``` text
-[org/gnome/login-screen]
 DisableUserList=true
 banner-message-enable=true
 banner-message-text='Welcome to the Matrix\nNeo Follow the white Rabbit'
@@ -73,14 +76,18 @@ ssh-add -L
 
 ### Shell configuration
 1 Access your .bashrc or .zshrc file:  
-    ``` Plain Text
-    nano ~/.bashrc
-    nano ~/.zshrc
-    ```
+
+``` Plain Text
+nano ~/.bashrc
+nano ~/.zshrc
+```
+
 2 Set the environment variable in the .bashrc or .zshrc file:  
-    ``` Plain Text
-    export SSH_AUTH_SOCK=/home/<user>/.bitwarden-ssh-agent.sock
-    ```
+
+``` Plain Text
+export SSH_AUTH_SOCK=/home/<user>/.bitwarden-ssh-agent.sock
+```
+
 ### Snap and Flatpak
 Enable the Bitwarden SSH Agent on snap or Flatpak installations:
 
