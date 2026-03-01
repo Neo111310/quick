@@ -54,7 +54,7 @@ sudo nano /etc/gdm3/greeter.dconf-defaults
 **[org/gnome/login-screen]**
 
 ``` text
-DisableUserList=true
+disable-user-list=true
 banner-message-enable=true
 banner-message-text='Welcome to the Matrix\nNeo Follow the white Rabbit'
 ```
