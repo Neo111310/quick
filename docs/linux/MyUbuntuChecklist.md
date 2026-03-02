@@ -22,6 +22,13 @@
     - HexChat
   - Optionele Software
      - Python
+     - Reaper
+     - GIMP
+     - INKSCAPE
+     - VLC
+     - AudaCity
+     - Kdenlive
+     - FreeFileSync
 
 ### Das Script
 
