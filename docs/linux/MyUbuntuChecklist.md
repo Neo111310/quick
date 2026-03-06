@@ -7,6 +7,7 @@
 - Software Installation 
     - Bitwarden
     - KeepassXC
+    - LibrteWolf (Private Browser)
     - Thunderbird
     - Kleopatra
     - Visual Studio Code
@@ -188,3 +189,19 @@ sudo twingate config
 To manually change a Client configuration setting, use twingate config [setting] [value] . Example settings that can be configured: network, autostart, save-auth-data, log-level
 twingate desktop-start	Start desktop notifications for Twingate authentication requests.
 /usr/bin/twingate-notifier console	Authenticate Twingate Client without desktop notifications. Note: Copy the URL returned and paste into a browser to authenticate the Twingate Client.
+
+# Libre Wolf
+
+https://librewolf.net/installation/debian/
+
+We have a repository for Debian-based distributions (Debian, Ubuntu, Mint, etc.), with which you can easily install and update LibreWolf. To add it to your system and install LibreWolf, run the following commands one by one:
+
+```
+sudo apt update && sudo apt install extrepo -y
+```
+```
+sudo extrepo enable librewolf && sudo extrepo update librewolf
+```
+```
+sudo apt update && sudo apt install librewolf -y
+```
