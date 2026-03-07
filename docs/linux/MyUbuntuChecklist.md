@@ -21,6 +21,8 @@
     - Cryptomator (Appimage)
     - Twingate
     - HexChat
+    - OnionShare
+    - TorBrowser
   - Optionele Software
      - Python
      - Reaper
@@ -205,3 +207,10 @@ sudo extrepo enable librewolf && sudo extrepo update librewolf
 ```
 sudo apt update && sudo apt install librewolf -y
 ```
+
+# Tor Browser
+Include in Repository  
+
+``` sudo add-apt-repository ppa:micahflee/ppa```  
+``` sudo apt update ```  
+``` sudo apt install torbrowser-launcher ```  
