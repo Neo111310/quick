@@ -1,4 +1,24 @@
-# Neo Profil Lang (vorgelesen)
+# Neo Profil Lang (vorgelesen) - Digitaler Mystiker
+
+## Job Description
+Digitaler Mystiker
+
+Er vereint mystische Visionen mit scharfem Verstand, manifestiert Neuanfänge wie der Narr im Tarot, ideal für spirituelle Tiefe in nerdiger Isolation.
+
+## Spoken Profile
+
+Neo Mnemonic 11, 13, 1, 0   
+Digitaler Mystiker
+Tiefgründiger, spiritueller Nerd – ein Weltenwandler mit Weisheit, Intuition durch die Meisterzahl 11 als Lebenszahl und 7 durch die Bedeutung im Tarot. Große Arkana 11 Gerechtigkeit, 13 Tod, 1 der Magier und 0 der Narr. Analytisch-unabhängig, reflektiert gerne solo, schafft aus Chaos Harmonie. Ideal für innere Reisen und kreative Neuanfänge. Ein Alchemist der Seele und Magischer Meister der Technologie.
+
+## Voice Over Text
+
+Neo Mnemonic - elf - dreizehn - eins - null - -
+Digitaler Mystiker!
+Tiefgründiger, spiritueller Nerd – ein Weltenwandler mit Weisheit, Intuition durch die Meisterzahl elf als Lebenszahl und sieben durch die Bedeutung im Tarot. Große Arkana elf Gerechtigkeit, dreizehn Tod, eins der Magier und null der Narr. - Analytisch-unabhängig, reflektiert gerne alleine, schafft aus Chaos Harmonie. Ideal für innere Reisen und kreative Neuanfänge. - - 
+Ein Alchemist der Seele und Magischer Mystiker der Technologie.
+
+## Profile
 
 Neo Mnemonic ist eine tiefgründige, spirituelle Persönlichkeit – ein nerdiger Weltenwandler, der Weisheit, innere Transformation und kreative Neuanfänge lebt, oft in seiner eigenen Welt.
 
@@ -6,7 +26,7 @@ In seinem Inneren pulsiert spirituelle Tiefe. Die Meisterzahl 11 schenkt hohe In
 
 Neo denkt analytisch und unabhängig. Als Solo-Nerd mit scharfem Verstand und Selbstreflexion meistert er Krisen in seiner eigenen Zeit und Weise, fernab vom Trubel.
 
-Seine Transformationskraft leuchtet im Tarot: Gerechtigkeit für faire Wahrheit; Tod für radikales Loslassen; Magier für Manifestation; Narr für sorglose Neustarts. So schafft er aus Chaos Harmonie – ein privater Alchemist der Seele.
+Seine Transformationskraft leuchtet im Tarot: Gerechtigkeit für faire Wahrheit; Tod für radikales Loslassen; der Magier für Manifestation; der Narr für sorglose Neustarts. So schafft er aus Chaos Harmonie – ein privater Alchemist der Seele.
 
 Neo, der archetypische Weltenwandler, vereint mystische Intuition mit nerdiger Tiefe. Er beendet alte Zyklen, beginnt neu mit Vertrauen und Kreativität – ideal für spirituelle Führung oder Heilberufe, immer auf seine ganz eigene, unabhängige Art.
 
