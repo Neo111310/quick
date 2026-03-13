@@ -11,3 +11,6 @@ Dann kann'S schon los gehen.
 # Bitwarden SSH
 
 [Link zum SSH Agent](https://bitwarden.com/help/ssh-agent/)
+
+Keepass ist besser !
+
