@@ -85,3 +85,6 @@ Diese Variante betont noch stärker **Rechtmäßigkeit vor Wandel** – ein posi
 ---
 
 Mehr Details auf der [Erweiterten Seite](Neo-Details.md)
+
+
+---
