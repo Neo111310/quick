@@ -23,6 +23,7 @@
     - HexChat
     - OnionShare
     - TorBrowser
+    - Zettlr ( https://apt.zettlr.com/ )
   - Optionele Software
      - Python
      - Reaper
